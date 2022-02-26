@@ -4,6 +4,10 @@ I'm a full-stack web developer and software engineer
 
 ## Projects
 
+### Websites
+
+- [portfolio](https://github.com/ivteplo/portfolio) - my portfolio website
+
 ### Web apps
 
 - [loyalty-cards-wallet](https://github.com/ivteplo/loyalty-cards-wallet) - one place to store your loyalty cards
