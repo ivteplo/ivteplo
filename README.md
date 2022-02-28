@@ -32,6 +32,8 @@ I'm a full-stack web developer and software engineer
 - [get-project-tree](https://github.com/ivteplo/get-project-tree) - get a tree structure of a directory
 - [p5.js-clone](https://github.com/ivteplo/p5.js-clone) - a library for working with JavaScript canvas, similar to p5.js
 - [simple-ruby-http-server](https://github.com/ivteplo/simple-ruby-http-server) - a little express.js-like library for creating HTTP servers with Ruby
+- [teplovs/mixins](https://github.com/teplovs/mixins) - JavaScript library for mixins (class-composition)
+- [teplovs/lexer](https://github.com/teplovs/lexer) - JavaScript library for tokenizing with regular expressions
 
 ### Machine learning
 
