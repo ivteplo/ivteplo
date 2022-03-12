@@ -14,7 +14,7 @@ I'm a full-stack web developer and software engineer
 - [qrcode-generator](https://github.com/ivteplo/qrcode-generator) - a web app for generating QR codes
 - [word-guessing-game](https://github.com/ivteplo/word-guessing-game) - word guessing game similar to Wordle
 - [react-paint](https://github.com/ivteplo/react-paint) - paint app made with React and TypeScript
-- [pomodo](https://github.com/ivteplo/pomodo) - customizable pomodoro timer. Made with Vue
+- [pomodo](https://github.com/ivteplo/pomodo) - minimalist pomodoro timer. Made with Vue
 - [react-todo-list](https://github.com/ivteplo/react-todo-list) - todo list app made with React, TypeScript, and Firebase
 
 ### Graphics
