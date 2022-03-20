@@ -46,3 +46,5 @@ I'm a full-stack web developer and software engineer
 ### Open Source Contributions
 
 - [use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState
+
+_and some other projects..._
