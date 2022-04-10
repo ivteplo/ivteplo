@@ -6,7 +6,8 @@ I'm a full-stack web developer and software engineer
 
 ### Websites
 
-- [portfolio](https://github.com/ivteplo/portfolio) - my portfolio website
+- [personal-website](https://github.com/ivteplo/personal-website) - my new personal website
+- [portfolio](https://github.com/ivteplo/portfolio) - my previous portfolio website
 
 ### Web apps
 
