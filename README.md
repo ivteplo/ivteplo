@@ -30,6 +30,7 @@ I'm a full-stack web developer and software engineer
 
 ### Libraries
 
+- [utilities.css](https://github.com/ivteplo/utilities.css) - a small utility library for CSS
 - [get-project-tree](https://github.com/ivteplo/get-project-tree) - get a tree structure of a directory
 - [p5.js-clone](https://github.com/ivteplo/p5.js-clone) - a library for working with JavaScript canvas, similar to p5.js
 - [simple-ruby-http-server](https://github.com/ivteplo/simple-ruby-http-server) - a little express.js-like library for creating HTTP servers with Ruby
