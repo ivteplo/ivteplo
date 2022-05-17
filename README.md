@@ -47,6 +47,7 @@ I'm a full-stack web developer and software engineer
 
 ### Open Source Contributions
 
-- [use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState
+- [finom/use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState
+- [solidjs/solid-site](https://github.com/solidjs/solid-site) - Solid.js website
 
 _and some other projects..._
