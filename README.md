@@ -18,6 +18,12 @@ I'm a full-stack web developer and software engineer
 - [pomodo](https://github.com/ivteplo/pomodo) - minimalist pomodoro timer. Made with Vue
 - [react-todo-list](https://github.com/ivteplo/react-todo-list) - todo list app made with React, TypeScript, and Firebase
 
+### Mini-projects
+
+- [bottom-sheet](https://github.com/ivteplo/bottom-sheet) - bottom sheet, implemented in pure HTML, CSS, and JavaScript
+- [simple-ruby-http-server](https://github.com/ivteplo/simple-ruby-http-server) - mini-library for creating an HTTP server (supports routing)
+- [playing-with-draggable](https://github.com/ivteplo/playing-with-draggable) - little playground to try out Draggable API in JavaScript
+
 ### Graphics
 
 - [sierpinski-triangle](https://github.com/ivteplo/sierpinski-triangle) - draws Sierpiński triangle using combinatorics, Pascal triangle, and JavaScript
@@ -44,10 +50,11 @@ I'm a full-stack web developer and software engineer
 ### Miscellaneous
 
 - [dotfiles](https://github.com/ivteplo/dotfiles) - my scripts and configuration files
+- [java-cli-calculator](https://github.com/ivteplo/java-cli-calculator) - calculator in a terminal, made with Java
 
 ### Open Source Contributions
 
-- [finom/use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState
-- [solidjs/solid-site](https://github.com/solidjs/solid-site) - Solid.js website
+- [finom/use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState (updated documentation, fixed an issue related to TypeScript error messages)
+- [solidjs/solid-site](https://github.com/solidjs/solid-site) - Solid.js website (added Ukrainian translations)
 
 _and some other projects..._
