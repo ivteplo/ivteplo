@@ -8,6 +8,8 @@ I'm a full-stack web developer and software engineer
 
 - [personal-website](https://github.com/ivteplo/personal-website) - my new personal website
 - [portfolio](https://github.com/ivteplo/portfolio) - my previous portfolio website
+- [quietplanet](https://github.com/Apareshka/ds_quietplanet) - website for analyzing impact of COVID-19 on climate change. Challenge solution for NASA Space Apps COVID-19 Edition hackathon
+- [NHRDS](https://github.com/Apareshka/NHRDS) - website for comparing mortality risk because of natural hazards in different countries. Challenge solution for NASA Space Apps 2019 hackathon
 
 ### Web apps
 
