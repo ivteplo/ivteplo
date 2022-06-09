@@ -19,6 +19,7 @@ I'm a full-stack web developer and software engineer
 - [react-paint](https://github.com/ivteplo/react-paint) - paint app made with React and TypeScript
 - [pomodo](https://github.com/ivteplo/pomodo) - minimalist pomodoro timer. Made with Vue
 - [react-todo-list](https://github.com/ivteplo/react-todo-list) - todo list app made with React, TypeScript, and Firebase
+- [codepen-clone](https://github.com/ivteplo/codepen-clone) - codepen clone, made with Node.js, Express, React, and CoffeeScript
 
 ### Mini-projects
 
