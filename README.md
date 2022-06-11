@@ -59,5 +59,6 @@ I'm a full-stack web developer and software engineer
 
 - [finom/use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState (updated documentation, fixed an issue related to TypeScript error messages)
 - [solidjs/solid-site](https://github.com/solidjs/solid-site) - Solid.js website (added Ukrainian translations)
+- [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives) - hooks for Solid.js (made a library for file uploading capabilities export TypeScript types)
 
 _and some other projects..._
