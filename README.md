@@ -1,6 +1,6 @@
 # 👋 Hi y'all, I'm Ivan!
 
-I'm a full-stack web developer and software engineer
+I'm a full-stack web developer and software engineer. I mostly develop websites and web apps (PWA) with JavaScript or TypeScript.
 
 ## Projects
 
@@ -22,6 +22,8 @@ I'm a full-stack web developer and software engineer
 - [codepen-clone](https://github.com/ivteplo/codepen-clone) - codepen clone, made with Node.js, Express, React, and CoffeeScript
 
 ### Mini-projects
+
+I like making little playgrounds for testing out specific APIs or implementing small ideas. I often make useful components with quite good user experience using pure HTML, CSS, and JavaScript.
 
 - [animated-keyboard-shortcuts](https://github.com/ivteplo/animated-keyboard-shortcuts) - add animation to keyboard shortcut hints (when user presses corresponding keys on a keyboard, keys on the screen get animated)
 - [bottom-sheet](https://github.com/ivteplo/bottom-sheet) - bottom sheet, implemented in pure HTML, CSS, and JavaScript
