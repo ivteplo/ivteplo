@@ -23,6 +23,7 @@ I'm a full-stack web developer and software engineer
 
 ### Mini-projects
 
+- [animated-keyboard-shortcuts](https://github.com/ivteplo/animated-keyboard-shortcuts) - add animation to keyboard shortcut hints (when user presses corresponding keys on a keyboard, keys on the screen get animated)
 - [bottom-sheet](https://github.com/ivteplo/bottom-sheet) - bottom sheet, implemented in pure HTML, CSS, and JavaScript
 - [simple-ruby-http-server](https://github.com/ivteplo/simple-ruby-http-server) - mini-library for creating an HTTP server (supports routing)
 - [playing-with-draggable](https://github.com/ivteplo/playing-with-draggable) - little playground to try out Draggable API in JavaScript
