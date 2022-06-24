@@ -33,6 +33,7 @@ I like making little playgrounds for testing out specific APIs or implementing s
 ### Graphics
 
 - [sierpinski-triangle](https://github.com/ivteplo/sierpinski-triangle) - draws Sierpiński triangle using combinatorics, Pascal triangle, and JavaScript
+- [superellipse](https://github.com/ivteplo/superellipse) - draws superellipse (or squircle, Lamé curve) using JavaScript and Canvas
 - [winter-city-landscape](https://github.com/ivteplo/winter-city-landscape) - a simple Processing project that generates a winter city landscape
 - [NewtonsCradle](https://github.com/ivteplo/NewtonsCradle) - a visualization of Newton's Cradle for my physics project
 
