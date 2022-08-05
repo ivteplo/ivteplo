@@ -62,8 +62,9 @@ I like making little playgrounds for testing out specific APIs or implementing s
 
 ### Open Source Contributions
 
-- [finom/use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState (updated documentation, fixed an issue related to TypeScript error messages)
-- [solidjs/solid-site](https://github.com/solidjs/solid-site) - Solid.js website (added Ukrainian translations)
-- [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives) - hooks for Solid.js (made a library for file uploading capabilities export TypeScript types)
+- [finom/use-change](https://github.com/finom/use-change) - an application-wide alternative for React.useState (I've updated documentation, fixed an issue related to TypeScript error messages)
+- [solidjs/solid-site](https://github.com/solidjs/solid-site) - Solid.js website (I've added Ukrainian translations)
+- [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives) - hooks for Solid.js (I've made a library for file uploading capabilities export TypeScript types)
+- [dashibase/lotion](https://github.com/dashibase/lotion) - Notion-like alternative, implemented with Vue.js (I've improved UX and fixed a few bugs)
 
 _and some other projects..._
