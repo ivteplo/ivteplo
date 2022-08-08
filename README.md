@@ -20,6 +20,7 @@ I'm a full-stack web developer and software engineer. I mostly develop websites 
 - [pomodo](https://github.com/ivteplo/pomodo) - minimalist pomodoro timer. Made with Vue
 - [react-todo-list](https://github.com/ivteplo/react-todo-list) - todo list app made with React, TypeScript, and Firebase
 - [codepen-clone](https://github.com/ivteplo/codepen-clone) - codepen clone, made with Node.js, Express, React, and CoffeeScript
+- [javascript-calculator](https://github.com/ivteplo/calculator) - calculator, made with JavaScript and jQuery
 
 ### Mini-projects
 
@@ -40,6 +41,8 @@ I like making little playgrounds for testing out specific APIs or implementing s
 ### Games
 
 - [snake-pygame](https://github.com/ivteplo/snake-pygame) - a good old snake game. Made with PyGame
+- [tennis-game-js](https://github.com/ivteplo/tennis-game-js) - a tennis (ping-pong) game, made with JavaScript and Canvas API
+- [snake-game-js](https://github.com/ivteplo/snake-game-js) - a snake game, made with JavaScript and Canvas API
 
 ### Libraries
 
