@@ -50,8 +50,6 @@ I like making little playgrounds for testing out specific APIs or implementing s
 - [get-project-tree](https://github.com/ivteplo/get-project-tree) - get a tree structure of a directory
 - [p5.js-clone](https://github.com/ivteplo/p5.js-clone) - a library for working with JavaScript canvas, similar to p5.js
 - [ruby-http-server](https://github.com/ivteplo/ruby-http-server) - a little express.js-like library for creating HTTP servers with Ruby
-- [teplovs/mixins](https://github.com/teplovs/mixins) - JavaScript library for mixins (class-composition)
-- [teplovs/lexer](https://github.com/teplovs/lexer) - JavaScript library for tokenizing with regular expressions
 - [animated-keyboard-shortcuts](https://github.com/ivteplo/animated-keyboard-shortcuts) - add animation to keyboard shortcut hints (when user presses corresponding keys on a keyboard, keys on the screen get animated)
 
 ### Machine learning
